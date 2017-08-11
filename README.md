@@ -2,22 +2,24 @@
 
 Everything is under cooking, just a experimental project for making money by deep learning.
 
-Try to crawl :
+[Try to crawl]
 
 	a. Noble Metals History Price
 	b. Exchange Rate History
 	c. Global Stock-Index History
 	d. TBD (maybe some informantions from the Social Media)
+	Note : We need trading volume as well
 
-Try to predict : TBD
+[Try to predict]
 
-Note : We need trading volume as well
+	a. TBD
 
-Finished Items :
+
+[Finished Items]
 
 	a. Crawl - Noble Metals (Shell Script Only, need to install w3m for parsing html)
 
-TODO :
+[TODO]
 
 	a. Crawl - Exchange Rate
 	b. Crawl - Global Stock-Index
