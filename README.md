@@ -32,4 +32,8 @@ Everything is under cooking, just a experimental project for making money by dee
 		4. implement - prediction
 		5. implement - validation
 
+[Depends Package]
+
+    a. w3m
+
 That's all~ Good Luck

@@ -7,7 +7,7 @@ HISTORY_PAGE="/sjzx/mrhqsj"
 
 TEMP_FILE="temp.html"
 HISTORY_PAGE_LIST="page.list"
-HISTORY_PRICE_FOLDER="history_gold_price"
+HISTORY_PRICE_FOLDER="../history_gold_price"
 DELETE_LINE="d"
 END_LINE="$"
 
