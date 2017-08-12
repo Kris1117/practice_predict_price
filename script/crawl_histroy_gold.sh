@@ -7,8 +7,7 @@ HISTORY_PAGE="/sjzx/mrhqsj"
 
 TEMP_FILE="temp.html"
 HISTORY_PAGE_LIST="page.list"
-HISTORY_DATA="../history_data/"
-HISTORY_PRICE_FOLDER=$HISTORY_PRICE_FOLDER"history_gold_price"
+HISTORY_PRICE_FOLDER="../history_data/history_gold_price"
 DELETE_LINE="d"
 END_LINE="$"
 
@@ -16,6 +15,9 @@ END_LINE="$"
 
 curl $SGE_URL$HISTORY_PAGE > $TEMP_FILE
 TOTAL_PAGE=`cat $TEMP_FILE | grep totalPage= | sed 's/.*totalPage=//g' | sed 's/;//g' | sed 's/\r//g'`
+
+echo "clean $HISTORY_PAGE_LIST"
+rm $HISTORY_PAGE_LIST
 
 for PAGE_NUM in `seq 1 $TOTAL_PAGE`; do
 	curl $SGE_URL$HISTORY_PAGE"?p="$PAGE_NUM > $TEMP_FILE
