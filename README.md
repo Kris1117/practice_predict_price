@@ -4,9 +4,9 @@ Everything is under cooking, just a experimental project for making money by dee
 
 [Try to crawl]
 
-	a. Noble Metals History Price
-	b. Exchange Rate History
-	c. Global Stock-Index History
+	a. Noble Metals History Price - done
+	b. Exchange Rate History - done in local, need to upload
+	c. Global Stock-Index History - done
 	d. TBD, ,maybe some informantions from the Social Media?
 	e. TBD, Google Search Rate by keywords?
 	Note : We need trading volume as well
