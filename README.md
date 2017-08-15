@@ -4,28 +4,29 @@ Everything is under cooking, just a experimental project for making money by dee
 
 [Try to crawl]
 
-	a. Noble Metals History Price
-	b. Exchange Rate History
-	c. Global Stock-Index History
-	d. TBD (maybe some informantions from the Social Media)
+	a. Noble Metals History Price - done
+	b. Exchange Rate History - done in local, need to upload
+	c. Global Stock-Index History - done
+	d. TBD, ,maybe some informantions from the Social Media?
+	e. TBD, Google Search Rate by keywords?
 	Note : We need trading volume as well
 
 [Try to predict]
 
-	a. TBD
-
+	a. Exchange rate - GBP/USD
+	b. Price - Gold
 
 [Finished Items]
 
 	a. Crawl - Noble Metals (Shell Script Only, need to install w3m for parsing html)
+	b. Crawl - Exchange Rate (crawl the webpage directly, because of too many limitations in using nowapi)
+	c. Crawl - Global Stock
 
 [TODO]
 
-	a. Crawl - Exchange Rate
-	b. Crawl - Global Stock-Index
-	c. deside the format of these data
-	d. design the target market that we want to predict
-	f. implementation of deep learning
+	a. deside the format of input data
+	b. design the target market that we want to predict (2 options now, maybe I can do more when I get a more powerful PC)
+	c. implementation of deep learning
 		1. implement - data input
 		2. implement - learing model
 		3. training
