@@ -1,0 +1,19 @@
+{
+    "lists": [
+        {
+            "days": "2017-08-10",
+            "high_price": "3282.52",
+            "inxid": "1",
+            "inxnm": "上证指数",
+            "inxno": "000001",
+            "last_price": "3261.75",
+            "low_price": "3236.18",
+            "open_price": "3269.73",
+            "turn_volume": "25185404.0000",
+            "typeid": "hs",
+            "volume": "240684623",
+            "yesy_price": "3275.57"
+        }
+    ],
+    "totline": "1"
+}

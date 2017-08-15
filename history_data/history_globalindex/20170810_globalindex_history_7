@@ -1,0 +1,19 @@
+{
+    "lists": [
+        {
+            "days": "2017-08-10",
+            "high_price": "4320.52",
+            "inxid": "7",
+            "inxnm": "红筹指数",
+            "inxno": "110030",
+            "last_price": "4271.06",
+            "low_price": "4234.36",
+            "open_price": "4320.52",
+            "turn_volume": "1004461.0000",
+            "typeid": "hk",
+            "volume": "0",
+            "yesy_price": "4302.29"
+        }
+    ],
+    "totline": "1"
+}

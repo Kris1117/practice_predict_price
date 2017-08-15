@@ -1,0 +1,19 @@
+{
+    "lists": [
+        {
+            "days": "2017-08-08",
+            "high_price": "1762.44",
+            "inxid": "4",
+            "inxnm": "创业板指",
+            "inxno": "399006",
+            "last_price": "1762.42",
+            "low_price": "1728.59",
+            "open_price": "1731.73",
+            "turn_volume": "6607494.0000",
+            "typeid": "hs",
+            "volume": "43987136",
+            "yesy_price": "1732.43"
+        }
+    ],
+    "totline": "1"
+}
