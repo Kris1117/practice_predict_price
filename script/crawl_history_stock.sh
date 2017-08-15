@@ -17,3 +17,6 @@ for URL in $(cat history_stock_url_list); do
         cat $TEMP_DATA | grep $ITEM -m 1 >> $HISTORY_STOCK_DATA_FOLDER/$DATE_STR
     done
 done
+
+rm $TEMP_DATA
+rm $TEMP_FILE
