@@ -4,11 +4,12 @@ Everything is under cooking, just a experimental project for making money by dee
 
 [Try to crawl]
 
-	a. Noble Metals History Price - done
+	a. Noble Metals History Price - done (maybe replace by furtures price)
 	b. Exchange Rate History - done
 	c. Global Stock-Index History - done
-	d. TBD, ,maybe some informantions from the Social Media?
-	e. TBD, Google Search Rate by keywords?
+	d. Futures History
+	e. TBD, ,maybe some informantions from the Social Media?
+	f. TBD, Google Search Rate by keywords?
 	Note : We need trading volume as well
 
 [Try to predict]
@@ -21,6 +22,7 @@ Everything is under cooking, just a experimental project for making money by dee
 	a. Crawl - Noble Metals (Shell Script Only, need to install w3m for parsing html)
 	b. Crawl - Exchange Rate (crawl the webpage directly, because of too many limitations in using nowapi)
 	c. Crawl - Global Stock
+	d. Crawl - Futures Price
 
 [TODO]
 
