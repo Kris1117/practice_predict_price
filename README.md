@@ -5,7 +5,7 @@ Everything is under cooking, just a experimental project for making money by dee
 [Try to crawl]
 
 	a. Noble Metals History Price - done
-	b. Exchange Rate History - done in local, need to upload
+	b. Exchange Rate History - done
 	c. Global Stock-Index History - done
 	d. TBD, ,maybe some informantions from the Social Media?
 	e. TBD, Google Search Rate by keywords?
